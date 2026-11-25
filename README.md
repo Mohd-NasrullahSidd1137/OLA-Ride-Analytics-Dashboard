@@ -104,7 +104,12 @@ Provides a high-level view of OLA ride-booking performance.
 - Bookings by Vehicle Type
 - Booking Status Breakdown
 
-![Overall Ride Overview](Project work img/page 1.PNG)
+
+<p align="center">
+  <img src="./Project%20work%20img/page%201.PNG"
+       alt="OLA Overall Ride Overview"
+       width="100%">
+</p>
 
 ### 2. Vehicle Type Analysis
 
@@ -118,7 +123,12 @@ Analyzes ride distance and customer ratings across vehicle categories.
 - Top 5 Vehicle Types by Ride Distance
 - Average Customer Ratings by Vehicle Type
 
-![Vehicle Type Analysis](Project work img/page 2.PNG)
+
+<p align="center">
+  <img src="./Project%20work%20img/page%202.PNG"
+       alt="Vehicle Type Analysis"
+       width="100%">
+</p>
 
 ### 3. Revenue Analysis
 
@@ -132,7 +142,11 @@ Explores revenue patterns and customer booking value.
 - Revenue by Payment Method
 - Top 5 Customers by Total Booking Value
 
-![Revenue Analysis](Project work img/page 3.PNG)
+<p align="center">
+  <img src="./Project%20work%20img/page%203.PNG"
+       alt="Revenue Analysis"
+       width="100%">
+</p>
 
 ### 4. Ratings Analysis
 
@@ -146,7 +160,11 @@ Evaluates customer and driver ratings to understand ride experience.
 - Driver Ratings Distribution
 - Customer vs. Driver Ratings
 
-![Ratings Analysis](Project work img/page 4.PNG)
+<p align="center">
+  <img src="./Project%20work%20img/page%204.PNG"
+       alt="Ratings Analysis"
+       width="100%">
+</p>
 
 ## 🗄️ SQL Analysis
 
