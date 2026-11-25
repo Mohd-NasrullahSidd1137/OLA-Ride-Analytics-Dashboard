@@ -1,10 +1,10 @@
 # 🚕 OLA Ride Insights | Data Analytics Project
 
 <p align="center">
-  <img src="Project work img/page 1.png" alt="OLA Ride Insights Banner" width="100%">
-  <img src="Project work img/page 2.png" alt="OLA Ride Insights Banner" width="100%">
-  <img src="Project work img/page 3.png" alt="OLA Ride Insights Banner" width="100%">
-  <img src="Project work img/page 4.png" alt="OLA Ride Insights Banner" width="100%">
+  <img src="Project work img/page 1.PNG" alt="OLA Ride Insights Banner" width="100%">
+  <img src="Project work img/page 2.PNG" alt="OLA Ride Insights Banner" width="100%">
+  <img src="Project work img/page 3.PNG" alt="OLA Ride Insights Banner" width="100%">
+  <img src="Project work img/page 4.PNG" alt="OLA Ride Insights Banner" width="100%">
 </p>
 
 <p align="center">
