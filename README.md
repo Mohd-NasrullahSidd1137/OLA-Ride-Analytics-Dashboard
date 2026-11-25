@@ -182,8 +182,14 @@ Developed 10 SQL queries to answer important business questions:
 10. Retrieve incomplete rides along with their reasons.
 
 SQL scripts are available in the `sql/` directory.
-![Sql Queries](Project work img/sql queries 1.PNG)
-![Sql Queries](Project work img/sql queries 2.PNG)
+
+<p align="center">
+  <img src="./Project%20work%20img/sql%20queries%201.PNG" width="100%" alt="OLA SQL Queries Part 1">
+</p>
+
+<p align="center">
+  <img src="./Project%20work%20img/sql%20queries%202.PNG" width="100%" alt="OLA SQL Queries Part 2">
+</p>
 
 ## 📌 Key EDA Metrics
 
